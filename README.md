@@ -2,6 +2,16 @@
 
 Welcome to the Dice Game App! This web-based application allows you to play an exciting dice game against an opponent. The game is developed using HTML, CSS, and JavaScript.
 
+## Technologies Used
+
+The Galaxy Explorer website is built using the following technologies:
+
+- **HTML**: The structure and layout of the web pages are created using HTML.
+
+- **CSS**: CSS is used for styling the user interface and making the website visually appealing.
+
+- **JavaScript**: JavaScript is responsible for the functionality of the app, handling user interactions.
+
 ## Gameplay
 
 The objective of the game is to be the first player to reach 100 points. Each player takes turns rolling a dice and accumulating points based on the outcome. The game supports two players.

@@ -1,10 +1,14 @@
 # Dice Game
 
+![dice-mock](https://github.com/john-aja/Dice-Game/assets/95049418/08000a00-fb95-4831-a229-67a09c45c7c9)
+
 Welcome to the Dice Game App! This web-based application allows you to play an exciting dice game against an opponent. The game is developed using HTML, CSS, and JavaScript.
+
+To open the website in a browser, please click on the following link : https://rolldicegameapp.netlify.app/
 
 ## Technologies Used
 
-The Galaxy Explorer website is built using the following technologies:
+The Dice Game app is built using the following technologies:
 
 - **HTML**: The structure and layout of the web pages are created using HTML.
 
@@ -14,7 +18,7 @@ The Galaxy Explorer website is built using the following technologies:
 
 ## Gameplay
 
-The objective of the game is to be the first player to reach 100 points. Each player takes turns rolling a dice and accumulating points based on the outcome. The game supports two players.
+The objective of the game is to be the first player to reach 10 points. Each player takes turns rolling a dice and accumulating points based on the outcome. The game supports two players.
 
 ### Game Controls
 

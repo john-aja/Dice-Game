@@ -1,6 +1,6 @@
 # Dice Game
 
-![dice-mock](https://github.com/john-aja/Dice-Game/assets/95049418/08000a00-fb95-4831-a229-67a09c45c7c9)
+![DICE](https://github.com/john-aja/Dice-Game/assets/95049418/efc94b38-61c5-4b35-840c-2a549aea1333)
 
 Welcome to the Dice Game App! This web-based application allows you to play an exciting dice game against an opponent. The game is developed using HTML, CSS, and JavaScript.
 
